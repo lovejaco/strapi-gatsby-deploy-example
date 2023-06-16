@@ -1,0 +1,12 @@
+{
+  "name": "strapi-gatsby-deploy-example",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "workspaces": {
+    "packages": [
+      "cms"
+    ]
+  }
+}

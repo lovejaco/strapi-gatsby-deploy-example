@@ -1,5 +1,3 @@
-# 🚀 Getting started with Strapi
-
 ### `install mysql for local-development`
 
 ```shell
